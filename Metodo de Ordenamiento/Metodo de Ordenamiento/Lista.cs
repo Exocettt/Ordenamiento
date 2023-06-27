@@ -142,5 +142,31 @@ namespace Metodo_de_Ordenamiento
                 }
             }
         }
+
+        public void OrdenamientoBurbuja()
+        {
+            if (ValidaVacio() == false)
+            {
+                Nodo nodoActual = nodoInicial.Enlace;
+                bool intercambio;
+
+                do
+                {
+                    intercambio = false;
+                    while (nodoActual.Enlace != null)
+                    {
+                        if (string.Compare(nodoActual.Valor, nodoActual.Enlace.Valor) > 0)
+                        {
+                            string temp = nodoActual.Valor;
+                            nodoActual.Valor = nodoActual.Enlace.Valor;
+                            nodoActual.Enlace.Valor = temp;
+                            intercambio = true;
+                        }
+                        nodoActual = nodoActual.Enlace;
+                    }
+                    nodoActual = nodoInicial.Enlace;
+                } while (intercambio);
+            }
+        }
     }
 }

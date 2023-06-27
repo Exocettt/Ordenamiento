@@ -1,0 +1,8 @@
+C:\Users\norie\Source\Repos\Ordenamiento\Metodo de Ordenamiento\Metodo de Ordenamiento\bin\Debug\Metodo de Ordenamiento.exe.config
+C:\Users\norie\Source\Repos\Ordenamiento\Metodo de Ordenamiento\Metodo de Ordenamiento\bin\Debug\Metodo de Ordenamiento.exe
+C:\Users\norie\Source\Repos\Ordenamiento\Metodo de Ordenamiento\Metodo de Ordenamiento\bin\Debug\Metodo de Ordenamiento.pdb
+C:\Users\norie\Source\Repos\Ordenamiento\Metodo de Ordenamiento\Metodo de Ordenamiento\obj\Debug\Metodo de Ordenamiento.csproj.AssemblyReference.cache
+C:\Users\norie\Source\Repos\Ordenamiento\Metodo de Ordenamiento\Metodo de Ordenamiento\obj\Debug\Metodo de Ordenamiento.csproj.SuggestedBindingRedirects.cache
+C:\Users\norie\Source\Repos\Ordenamiento\Metodo de Ordenamiento\Metodo de Ordenamiento\obj\Debug\Metodo de Ordenamiento.csproj.CoreCompileInputs.cache
+C:\Users\norie\Source\Repos\Ordenamiento\Metodo de Ordenamiento\Metodo de Ordenamiento\obj\Debug\Metodo de Ordenamiento.exe
+C:\Users\norie\Source\Repos\Ordenamiento\Metodo de Ordenamiento\Metodo de Ordenamiento\obj\Debug\Metodo de Ordenamiento.pdb
